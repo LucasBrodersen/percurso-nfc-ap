@@ -1,0 +1,26 @@
+{
+  "nota": "Dados fictícios usados enquanto o serviço Provide activity não está implementado.",
+  "alunos": [
+    {
+      "inveniraStdID": 1001,
+      "pontos_visitados": 3, "percurso_completo": true, "respostas_certas": 3,
+      "ordem_respeitada": true, "tempo_total_min": 38,
+      "sequencia": ["P1 · Portão principal (10:02)", "P2 · Jardim das aromáticas (10:15)", "P3 · Miradouro (10:40)"],
+      "em_falta": []
+    },
+    {
+      "inveniraStdID": 1002,
+      "pontos_visitados": 2, "percurso_completo": false, "respostas_certas": 1,
+      "ordem_respeitada": false, "tempo_total_min": 25,
+      "sequencia": ["P1 · Portão principal (10:05)", "P3 · Miradouro (10:30)"],
+      "em_falta": ["P2 · Jardim das aromáticas"]
+    },
+    {
+      "inveniraStdID": 1003,
+      "pontos_visitados": 1, "percurso_completo": false, "respostas_certas": 1,
+      "ordem_respeitada": true, "tempo_total_min": 9,
+      "sequencia": ["P1 · Portão principal (10:20)"],
+      "em_falta": ["P2 · Jardim das aromáticas"]
+    }
+  ]
+}
